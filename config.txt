@@ -1,0 +1,6 @@
+owner=525992191873777695
+prefix=+
+game= <3 RõeDõx | +play <3
+stayinchannel=true
+songinstatus=false
+token=NTkyODE5Nzg4MTg3OTU5MzE2.XRE44A.0v6zk25NfXFexSvdKoNmyM7OMyk
